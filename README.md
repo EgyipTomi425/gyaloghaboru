@@ -10,8 +10,7 @@ Később tervben van több figura, és akár a rendes sakkjáték is.
 
 How to run: (minimum JDK 17 and maven 3.7)
 
-```
-bash
+```bash
 git clone https://github.com/EgyipTomi425/gyaloghaboru.git
 cd gyaloghaboru
 mvn clean install
