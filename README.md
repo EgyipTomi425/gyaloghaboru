@@ -20,4 +20,6 @@ mvn exec:java
 
 Egy lejátszott játék után az új játék megnyomásakor mentést is készít az eredményekről, több lejátszott játék után pedig az eredménytáblán lesznek rekordok. 
 
+If you have not JAva 20, set the version to 17.
+
 Források: Jeszy75 (Jeszenszky Péter) tárolója.
