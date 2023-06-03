@@ -1,7 +1,10 @@
 package main;
+import sakkApplication.SakkAlkalmazas;
 import javafx.application.Application;
-import SakkApplication.*;
 
+/**
+ * Felelős a program indításáért.
+ */
 public class Main
 {
     public static void main(String[] args) 
