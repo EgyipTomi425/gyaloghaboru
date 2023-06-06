@@ -19,7 +19,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.build.outputEncoding>UTF-8</project.build.outputEncoding>
-        <maven.compiler.release>20</maven.compiler.release>
+        <maven.compiler.release>17</maven.compiler.release>
         <javafx.version>20</javafx.version>
         <lombok.version>1.18.20</lombok.version>
         <apache.logging.log4j.version>2.17.1</apache.logging.log4j.version>
